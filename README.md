@@ -1,11 +1,11 @@
-SOLID Principles – Java Examples
+# **SOLID Principles – Java Examples**
 
 This repository contains clear, clean, and practical examples of the SOLID principles implemented in Java.
 The goal is to demonstrate how to write sustainable, readable, and extensible code by applying the SOLID design philosophy in real-world scenarios.
 
 
 
-Contents
+## **Contents**
 
 S – Single Responsibility Principle
 
@@ -22,7 +22,7 @@ Each folder includes a description of the principle and Java-based example usage
 
 
 
-What is SOLID?
+## **What is SOLID?**
 
 SOLID is a set of five core software design principles introduced by Robert C. Martin.
 These principles help developers create:
@@ -39,7 +39,7 @@ Improved readability and maintainability
 
 
 
-Project Structure
+## **Project Structure**
  src
  ┣ single-responsibility
  ┣ open-closed
@@ -49,7 +49,7 @@ Project Structure
  ┣ README.md
 
 
-Technologies Used
+## **Technologies Used**
 
 Java 17+
 
@@ -63,7 +63,8 @@ Realistic scenarios demonstrating each principle
 
 
 
-Learning Purpose
+
+## **Learning Purpose**
 
 This repository is designed as a practical resource for junior to mid-level backend developers who want to understand and apply SOLID principles effectively.
 It provides a foundation for using these principles in Spring Boot applications, microservices, and enterprise-level software architectures.
