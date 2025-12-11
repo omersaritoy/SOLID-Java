@@ -20,6 +20,17 @@ D – Dependency Inversion Principle
 Each folder includes a description of the principle and Java-based example usage.
 
 
+S (Single Responsibility Principle - SRP): A class should have only one responsibility, meaning it should only have one reason to change.
+
+O (Open/Closed Principle - OCP): Software components should be open for extension but closed for modification, meaning new functionality can be added without changing existing code.
+
+L (Liskov Substitution Principle - LSP): Objects of a subclass should be able to replace objects of the superclass without affecting the correctness of the program.
+
+I (Interface Segregation Principle - ISP): Clients should not be forced to depend on interfaces they don't use, meaning large, complex interfaces should be split into smaller, more specific ones.
+
+D (Dependency Inversion Principle - DIP): High-level modules should not depend on low-level modules. Both should depend on abstractions (interfaces), not concrete implementations.
+
+
 
 
 ## **What is SOLID?**
